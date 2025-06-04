@@ -1,0 +1,147 @@
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.28\main.py", line 466, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal battle error: local variable 'Boss' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.28\battle.py", line 466, in handle_battle
+    if not isinstance(boss, Boss):
+UnboundLocalError: local variable 'Boss' referenced before assignment
+
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:Failed to advance level: 'NPC' object has no attribute 'image_name'
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:Failed to load animation boss_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_attacking_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_attacking_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_attacking_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_attacking_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_attacking_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_attacking_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_attacking_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment
+ERROR:root:Failed to load animation boss_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_attacking_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_attacking_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation boss_attacking_animation.gif: No video mode has been set
+ERROR:root:Failed to load animation duck_friend_animation.gif: No video mode has been set
+ERROR:root:NoneType: None
+
+ERROR:root:½»»¥Ê§°Ü: local variable 'e' referenced before assignment

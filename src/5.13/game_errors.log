@@ -1,0 +1,6 @@
+ERROR:root:Critical error in battle loop: text must be a unicode or bytes
+ERROR:root:Traceback (most recent call last):
+  File "E:\python_game\DuckEscape-game\src\5.13\battle.py", line 610, in handle_battle
+    info_render = font.render(info_text, True, BLACK)
+TypeError: text must be a unicode or bytes
+

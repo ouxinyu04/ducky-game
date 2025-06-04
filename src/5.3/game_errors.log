@@ -1,0 +1,11 @@
+INFO:root:IMAGES_DIR 设置为: E:\python_game\DuckEscape-game\src\assets\images
+INFO:root:尝试加载图片: E:\python_game\DuckEscape-game\src\assets\images\duck.png
+ERROR:root:文件不存在: E:\python_game\DuckEscape-game\src\assets\images\duck.png
+INFO:root:IMAGES_DIR 设置为: E:\python_game\DuckEscape-game\src\assets\images
+INFO:root:尝试加载图片: E:\python_game\DuckEscape-game\src\assets\images\duck.png
+ERROR:root:文件不存在: E:\python_game\DuckEscape-game\src\assets\images\duck.png
+INFO:root:BASE_DIR 设置为: E:\python_game\DuckEscape-game\src
+INFO:root:ASSETS_DIR 设置为: E:\python_game\DuckEscape-game\src\assets
+INFO:root:IMAGES_DIR 设置为: E:\python_game\DuckEscape-game\src\assets\images
+INFO:root:尝试加载图片: E:\python_game\DuckEscape-game\src\assets\images\duck.png
+ERROR:root:文件不存在: E:\python_game\DuckEscape-game\src\assets\images\duck.png

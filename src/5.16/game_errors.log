@@ -1,0 +1,39 @@
+ERROR:root:Critical error in battle loop: text must be a unicode or bytes
+ERROR:root:Traceback (most recent call last):
+  File "E:\python_game\DuckEscape-game\src\5.13\battle.py", line 610, in handle_battle
+    info_render = font.render(info_text, True, BLACK)
+TypeError: text must be a unicode or bytes
+
+ERROR:root:Critical error in battle loop: list index out of range
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.16\battle.py", line 289, in handle_battle
+    character_y_offsets[index] += (target_y_offset - character_y_offsets[index]) * 0.2
+IndexError: list index out of range
+
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating attack effect: 'Enemy' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating attack effect: 'Enemy' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating heal effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating attack effect: 'Enemy' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating heal effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating heal effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating attack effect: 'Enemy' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating heal effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating attack effect: 'Enemy' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating attack effect: 'Enemy' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating heal effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating heal effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating heal effect: 'Partner' object has no attribute 'rect'
+ERROR:root:Error creating boss attack effect: 'Partner' object has no attribute 'rect'

@@ -1,0 +1,18 @@
+# 屏幕尺寸
+SCREEN_WIDTH = 1024
+SCREEN_HEIGHT = 768
+
+# 颜色
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+ORANGE = (255, 165, 0)
+PINK = (255, 192, 203)
+
+# 游戏相关常量
+MAX_PARTNERS = 5  # 伙伴上限
+BOSS_LEVEL = 5  # BOSS 关
+BOSS_REQUIRED_POWER = 50  # BOSS 关所需战力
+HP_LOSS_PER_BATTLE = 0.1  # 每次战斗损失 10% 最大 HP

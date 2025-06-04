@@ -1,0 +1,57 @@
+# npc.py (修正版)
+import pygame
+import os
+import logging
+from constants import SCREEN_WIDTH, SCREEN_HEIGHT, PINK, GREEN, BLUE
+from config import ASSETS_DIR
+
+logging.basicConfig(filename="game_errors.log", level=logging.ERROR)
+
+
+class NPC:
+    def __init__(self, x, y, npc_type="lady_duck"):
+        self.x = x
+        self.y = y
+        self.width = 30
+        self.height = 30
+        self.npc_type = npc_type
+        if npc_type == "lady_duck":
+            self.color = PINK
+            self.charm_requirement = 10
+            self.image_name = "lady_duck.png"
+        elif npc_type == "broccoli_general":
+            self.color = GREEN
+            self.charm_requirement = 15
+            self.image_name = "broccoli_general.png"
+        elif npc_type == "human_child":
+            self.color = BLUE
+            self.charm_requirement = 8
+            self.image_name = "human_child.png"
+        image_path = os.path.join(ASSETS_DIR, self.image_name)
+        self.image = None
+        if os.path.exists(image_path):
+            try:
+                self.image = pygame.image.load(image_path)
+                self.image = pygame.transform.scale(self.image, (self.width, self.height))
+            except pygame.error as e:
+                logging.error(f"Failed to load {self.image_name}: {e}")
+
+    def draw(self, screen):
+        if self.image:
+            screen.blit(self.image, (self.x, self.y))
+        else:
+            pygame.draw.rect(screen, self.color, (self.x, self.y, self.width, self.height))
+
+    def convert_to_partner(self, partner_index):
+        """将NPC转换为伙伴"""
+        # 延迟导入避免循环引用
+        from partner import Partner
+
+        partner = Partner(self.x, self.y, partner_index, is_special=True, npc_type=self.npc_type)
+        partner.collected = True
+
+        # 复制NPC的图像到伙伴对象
+        if self.image:
+            partner.image = self.image
+
+        return partner

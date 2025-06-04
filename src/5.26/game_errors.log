@@ -1,0 +1,126 @@
+ERROR:root:Fatal error: local variable 'os' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 128, in main
+    os.path.join(ASSETS_DIR, "menu_background.png"),  # 使用配置文件中的路径
+UnboundLocalError: local variable 'os' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 453, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 465, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 462, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 462, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 462, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 463, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 465, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 465, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 465, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 465, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 465, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 465, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 464, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 462, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 462, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 463, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 463, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 465, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
+ERROR:root:NoneType: None
+
+ERROR:root:交互失败: local variable 'e' referenced before assignment
+ERROR:root:NoneType: None
+
+ERROR:root:交互失败: local variable 'e' referenced before assignment
+ERROR:root:Fatal error: local variable 'quit_game' referenced before assignment
+ERROR:root:Traceback (most recent call last):
+  File "e:\python_game\DuckEscape-game\src\5.26\main.py", line 466, in main
+    quit_game()
+UnboundLocalError: local variable 'quit_game' referenced before assignment
+
