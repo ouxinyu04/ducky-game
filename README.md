@@ -1,4 +1,8 @@
 # ducky-game
+两个文件夹负责的功能
+
+
+
 /src
 main.py (游戏入口)
     ↓
